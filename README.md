@@ -1,4 +1,12 @@
 <h1>Tech Stack</h1>
+Machine Learning Engineer
+Machine Learing Engineer in Trasportation industry(Mobility - Car Sharing, Ride Hailing)
+I organize a group of developers who write blog posts - 글쓰는 개발자 모임, 글또
+Interest
+MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
+Google Cloud Platform(Especially, BigQuery)
+Operation Research
+Leadership, Mentoring, Writing, Presentation
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
