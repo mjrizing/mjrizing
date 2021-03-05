@@ -8,7 +8,7 @@
 <br>
 
 <div>
-  <h1>Junior Web Developer </h1>
+  <h1>Junior Web Developer🐳 </h1>
   <ul>
   <li>Junior software engineer</li>
   <li>Web developer skilled in Javascript</li>
