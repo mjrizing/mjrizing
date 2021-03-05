@@ -8,7 +8,7 @@
 
 ### 💡Interest
 
-* Become a full-stack developer
+* To Become a full-stack developer
 * Deep and Broad Technical experience
 * Data Science in Marketing
 
