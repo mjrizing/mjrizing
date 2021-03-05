@@ -15,7 +15,7 @@
   <li>Web developer skilled in Javascript</li>
   </ul>
 </div>
-------------
+
 <div>
   <h3>💡Interest</h3>
   <ul>
@@ -24,7 +24,7 @@
     <li></li>
   </ul>
 </div>
-------------
+
 <div>
   <h3>💪Strength</h3>
   <ul>
@@ -33,7 +33,7 @@
     <li>⚽️Team player</li>
   </ul>
 </div>
-------------
+
 <div>
   <h1>✨Tech Stack</h1>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
