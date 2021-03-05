@@ -2,28 +2,28 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-# Junior Web Developer🐳
+# Junior Web Developer🐳<center>
 
-  <ul>
-  <li>Junior software engineer</li>
-  <li>Web developer skilled in Javascript</li>
-  </ul>
+* Junior software engineer
+* Web developer skilled in Javascript
+
+
 
 ### 💡Interest
 
-  <ul>
-    <li>Become a full-stack developer</li>
-    <li>Deep and Broad Technical Experience</li>
-    <li></li>
-  </ul>
+* Become a full-stack developer
+* Deep and Broad Technical experience
+* Data Science in Marketing
+
+
 
 ### 💪Strength
 
-  <ul>
-    <li>💻Hardworker</li>
-    <li>🚀Fast learner</li>
-    <li>⚽️Team player</li>
-  </ul>
+* 💻Hardworker
+* 🚀Fast learner
+* ⚽️Team player
+
+
 
 # ✨Tech Stack
 
@@ -39,5 +39,11 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <br>
+
+
+___
+
+
+### contact us👇
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Blog-36465D?style=flat-square&logo=Tumblr&logoColor=white"/></a>
