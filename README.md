@@ -1,7 +1,12 @@
 <div>
-  <h1>Junior Web Developer🐳</h1>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+
+<div>
+  <h1>Junior Web Developer in 🇰🇷🇯🇵</h1>
   <ul>
-  <li>Junior software engineer/Web developer skilled in Javascript</li>
+  <li>Junior software engineer/
+  <li>Web developer skilled in Javascript</li>
   </ul>
 </div>
 
@@ -9,7 +14,7 @@
   <h3>💡Interest</h3>
   <ul>
     <li>Become a full-stack developer</li>
-    <li></li>
+    <li>Deep and Broad Technical Experience</li>
     <li></li>
   </ul>
 </div>
@@ -41,8 +46,3 @@
 <img src="https://img.shields.io/badge/Blog-36465D?style=flat-square&logo=Tumblr&logoColor=white"/></a>
 </div>
 
-<div>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
-
-🇰🇷🇯🇵
