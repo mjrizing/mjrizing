@@ -16,8 +16,8 @@
 
 ### 💪Strength
 
-* 💻Hardworker
 * 🚀Fast learner
+* 💻Hardworker
 * ⚽️Team player
 
 
@@ -36,13 +36,13 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   
+  
 # Typescript
 // #리액트.js
 Web pack
-UX 추기
-___
+UX 추가, Vue 추가, R추가, GraphQL, Svelte,InteliJ
 
 
-### contact us👇
+### contact me👇
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>[Here](https://velog.io/)
 <img src="https://img.shields.io/badge/Blog-36465D?style=flat-square&logo=Tumblr&logoColor=white"/></a>[Velog](https://velog.io/)
