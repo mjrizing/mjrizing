@@ -40,7 +40,7 @@
 # Typescript
 // #리액트.js
 Web pack
-UX 추가, Vue 추가, R추가, GraphQL, Svelte,InteliJ
+UX 추가, Vue.js 추가, R추가, GraphQL, Svelte,
 
 
 ### contact me👇
