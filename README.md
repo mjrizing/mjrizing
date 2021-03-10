@@ -46,3 +46,5 @@ UX 추가, Vue.js 추가, R추가, GraphQL, Svelte,
 ### contact me👇
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>[Here](https://velog.io/)
 <img src="https://img.shields.io/badge/Blog-36465D?style=flat-square&logo=Tumblr&logoColor=white"/></a>[Velog](https://velog.io/)
+
+###트위터 계정개설, 블로그 스킨만들기
