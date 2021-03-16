@@ -48,3 +48,10 @@ UX 추가, Vue.js 추가, R추가, GraphQL, Svelte,
 <img src="https://img.shields.io/badge/Blog-36465D?style=flat-square&logo=Tumblr&logoColor=white"/></a>[Velog](https://velog.io/)
 
 ###트위터 계정개설, 블로그 스킨만들기
+
+프론트엔드 언어: HTML,CSS,JavaScript
+프론트엔드 라이브러리: jQuery,D3.js.Bootstrap
+프론트엔드 프레임워크: React,Angular,Vue
+
+백엔드 언어: Python,Java,PHP,Dotnet,Javascript
+백엔드 프레임워크: Node.js,Spring,Django
