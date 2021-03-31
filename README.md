@@ -44,10 +44,10 @@ UX 추가, Vue.js 추가, R추가, GraphQL, Svelte,
 
 
 ### contact me👇
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>[Here](https://velog.io/)
-<img src="https://img.shields.io/badge/Blog-36465D?style=flat-square&logo=Tumblr&logoColor=white"/></a>[Velog](https://velog.io/)
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>[Instagram](https://velog.io/)
+<img src="https://img.shields.io/badge/Blog-36465D?style=flat-square&logo=Tumblr&logoColor=white"/></a>[Jekyll](https://velog.io/)
 
-###트위터 계정개설, 블로그 스킨만들기
+###트위터 계정개설, 지킬 블로그 스킨만들기
 
 프론트엔드 언어: HTML,CSS,JavaScript
 프론트엔드 라이브러리: jQuery,D3.js.Bootstrap
