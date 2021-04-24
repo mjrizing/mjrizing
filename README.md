@@ -40,16 +40,11 @@ I'm a Junior developer from Busan, Korea🇰🇷
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   
   
-# Typescript
-// #리액트.js
-Web pack
-UX 추가, Vue.js 추가, R추가, GraphQL, Svelte,
-
 
 ### contact me👇
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>[Instagram](https://velog.io/)
 <img src="https://img.shields.io/badge/Blog-36465D?style=flat-square&logo=Tumblr&logoColor=white"/></a>[Jekyll](https://velog.io/)
-<img src="#"/>트위터개설.
+<img src="#"/></a>[Twitter](https://twitter.com/devmin55)
 
 ###트위터 계정개설, 지킬 블로그 스킨만들기
 
