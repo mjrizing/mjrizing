@@ -9,6 +9,7 @@ I'm a Junior developer from Busan, Korea🇰🇷
 📄 Read about me from blog (in Korean): '#'
 
 
+
 ### 💡Interest
 
 * To Become a full-stack developer
@@ -46,11 +47,4 @@ I'm a Junior developer from Busan, Korea🇰🇷
 <img src="https://img.shields.io/badge/Blog-36465D?style=flat-square&logo=Tumblr&logoColor=white"/></a>[Jekyll](https://velog.io/)
 <img src="#"/></a>[Twitter](https://twitter.com/devmin55)
 
-###트위터 계정개설, 지킬 블로그 스킨만들기
-
-프론트엔드 언어: HTML,CSS,JavaScript
-프론트엔드 라이브러리: jQuery,D3.js.Bootstrap
-프론트엔드 프레임워크: React,Angular,Vue
-
-백엔드 언어: Python,Java,PHP,Dotnet,Javascript
-백엔드 프레임워크: Node.js,Spring,Django
+###트위터 계정개설, 지킬 블로그 만들기, 노션 워크스페이스 써보기
