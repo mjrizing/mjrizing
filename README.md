@@ -6,7 +6,7 @@
 I'm a Junior developer from Busan, Korea🇰🇷
    
 🌱 I’m learning about Javascript and Vue🦀
-💌 How to reach me: mjrizing0@gmail.com
+💌 How to reach me: mjrizing0@gmail.com.  
 📄 Read about me from portfolio site (in Japanese): 'https://mjrizing.github.io/portfolio/'
 
 
