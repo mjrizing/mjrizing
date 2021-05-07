@@ -20,9 +20,9 @@ I'm a Junior developer from Busan, Korea🇰🇷
 
 ### 💪Strength
 
-* 🚀Fast learner
-* 💻Hardworker
-* ⚽️Team player
+* Fast learner🚀
+* Hardworker💻
+* Team player⚽️
 
 
 
@@ -47,4 +47,5 @@ I'm a Junior developer from Busan, Korea🇰🇷
 <img src="https://img.shields.io/badge/Blog-36465D?style=flat-square&logo=Tumblr&logoColor=white"/></a>[Jekyll](https://velog.io/)
 <img src="#"/></a>[Twitter](https://twitter.com/devmin55)
 
-###트위터 계정개설, 지킬 블로그 만들기, 노션 워크스페이스 써보기
+# To Do List
+###~~트위터 계정개설~~, 지킬 블로그 만들기, ~~노션 워크스페이스 써보기~~
