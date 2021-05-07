@@ -4,9 +4,10 @@
 
 # 👶Junior Web Developer🐳<center>
 I'm a Junior developer from Busan, Korea🇰🇷
-🌱 I’m learning Javascript and Vue🦀
+   
+🌱 I’m learning about Javascript and Vue🦀
 💌 How to reach me: mjrizing0@gmail.com
-📄 Read about me from blog (in Korean): '#'
+📄 Read about me from portfolio site (in Japanese): 'https://mjrizing.github.io/portfolio/'
 
 
 
@@ -47,5 +48,5 @@ I'm a Junior developer from Busan, Korea🇰🇷
 <img src="https://img.shields.io/badge/Blog-36465D?style=flat-square&logo=Tumblr&logoColor=white"/></a>[Jekyll](https://velog.io/)
 <img src="#"/></a>[Twitter](https://twitter.com/devmin55)
 
-# To Do List
+# To Do List✍🏻
 ###~~트위터 계정개설~~, 지킬 블로그 만들기, ~~노션 워크스페이스 써보기~~
