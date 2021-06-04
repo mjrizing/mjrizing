@@ -49,4 +49,5 @@ I'm a Junior developer from Busan, Korea🇰🇷
 <img src="#"/></a>[Twitter](https://twitter.com/devmin55)
 
 # To Do List✍🏻
-###~~트위터 계정개설~~, 지킬 블로그 만들기, ~~노션 워크스페이스 써보기~~
+###~~트위터 계정개설~~,    지킬 블로그 만들기,    ~~노션 워크스페이스 써보기~~   
+CCNA, CCNP 취득관련 정보정리하기.   
