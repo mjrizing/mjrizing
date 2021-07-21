@@ -48,9 +48,3 @@ I will work in Tokyo, Japan🇯🇵 from 2022.🗻
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>[Instagram](https://velog.io/)
 <img src="https://img.shields.io/badge/Blog-36465D?style=flat-square&logo=Tumblr&logoColor=white"/></a>[Jekyll](https://velog.io/)
 <img src="#"/></a>[Twitter](https://twitter.com/devmin55) -->
-
-# To Do List✍🏻
-* ~~트위터 계정개설~~
-* 지킬 블로그 만들기
-* ~~노션 워크스페이스 써보기~~
-* ~~CCNA, CCNP 취득관련 정보정리하기.~~
