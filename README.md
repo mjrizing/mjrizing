@@ -14,9 +14,9 @@ I will work in Tokyo, Japan🇯🇵 from 2022.🗻
 
 ### 💡Interest
 
-* To Become a full-stack developer
+* To Become a full-stack system engineer
 * Deep and Broad Technical experience
-* AWS Cloud
+* AWS Cloud & Networking
 
 
 
@@ -42,7 +42,7 @@ I will work in Tokyo, Japan🇯🇵 from 2022.🗻
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   
-  
+AWS SAA / CCNA  
 
 <!-- ### contact me👇
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>[Instagram](https://velog.io/)
