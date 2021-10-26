@@ -14,9 +14,9 @@ I will work in Tokyo, Japan🇯🇵 from 2022.🗻
 
 ### 💡Interest
 
-* To Become a full-stack system engineer
+* To Become a professional Infrastructure engineer
 * Deep and Broad Technical experience
-* AWS Cloud & Networking
+* AWS Cloud Networking & On-premise Networking
 
 
 
