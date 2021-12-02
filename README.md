@@ -4,9 +4,9 @@
 
 # 👶Junior Infrastructure Engineer 🐳<center>
 I'm a Junior Engineer from Busan, Korea🇰🇷.  
-I will work in Tokyo, Japan🇯🇵 from 2022.🗻
+I'm working in Tokyo, Japan🇯🇵
    
-🌱 I’m learning about Programming Skill and Networking Skill🦀.  
+🌱 I’m learning about Programming Skill and Networking Technology🦀.  
 💌 How to reach me: mjrizing0@gmail.com.  
 📄 Read about me from portfolio site (in Japanese): 'https://mjrizing.github.io/portfolio/'
 
